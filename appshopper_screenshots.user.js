@@ -1,12 +1,16 @@
 // ==UserScript==
 // @name           AppShopper Screenshots
-// @namespace      1
+// @namespace      as
+// @version        1.0
+// @description    Load appshopper screenshots in a row
 // @include        http://appshopper.com/*
 //
 // Show all the screenshots from ImageArray.
 //
+// 2013/09/25
+// - v1.0   Display screenshots in a row.
 // 2011/07/07
-// It should be compatible with Google Chrome now.
+// - v0.1   It should be compatible with Google Chrome now.
 //
 // ==/UserScript==
  
